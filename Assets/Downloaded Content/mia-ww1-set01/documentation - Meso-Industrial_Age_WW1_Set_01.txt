@@ -1,0 +1,5 @@
+Meso-Industrial Age WW1 Set 01
+
+The included Photoshop workfiles contain layers indicating the uv-mapping, so new diffuse maps with different colours can be easily created.
+
+The models do not contain any animation tracks.
